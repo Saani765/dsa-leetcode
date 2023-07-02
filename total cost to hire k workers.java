@@ -1,3 +1,5 @@
+import java.util.PriorityQueue;
+
 class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
         int i = 0;
