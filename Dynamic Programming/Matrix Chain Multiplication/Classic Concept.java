@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution{
     
     static int matrixMultiplication(int n, int arr[])
